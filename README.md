@@ -3,10 +3,11 @@
 #### 介绍
 本项目包含了 HTML、CSS、JavaScript、JQuery、Vue 等相关知识和小实例，大家一起学习，一起讨论。
 本 项目 目录下的内容 原作 非本人  请遵守原作者 的开源策略 本人用于复现学习css 
-原作
-b站视频教程  艾恩小灰灰  
+### 原作者
+#### b站视频教程  艾恩小灰灰  
 https://www.bilibili.com/video/BV1QZ4y1o7HM?spm_id_from=333.1007.top_right_bar_window_history.content.click
-下载 https://gitee.com/wyanhui02/html_css_demo
+#### 下载
+https://gitee.com/wyanhui02/html_css_demo
 
 #### 备注
 第106期及之后的小实例都在code文件夹下。
